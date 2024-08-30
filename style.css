@@ -23,3 +23,10 @@ h2 {
 li.done {
   color: seagreen;
 }
+a {
+  color: black;
+  background-color: cyan;
+  text-decoration: none;
+  border: 10px solid cyan;
+  border-radius: 10px;
+}
